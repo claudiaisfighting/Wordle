@@ -43,7 +43,7 @@ GIF created with Licecap
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was really hard for me to finish this homework and I still don't know how to use kotlin to customize my app. 
 
 ## License
 
